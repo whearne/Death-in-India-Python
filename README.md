@@ -41,7 +41,7 @@ pip install pandas matplotlib numpy seaborn
 
    python Death\ in\ India.py
 
-4. The script will display data summaries and visualizations, including:
+4. The script will display data summaries and visualisations, including:
 
       - Histograms of numerical columns in the dataset.
       - Line plots showing trends in population, birth rates, and death rates over time.
@@ -54,5 +54,5 @@ pip install pandas matplotlib numpy seaborn
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Acknowledgments
-- This project utilizes the pandas library for data processing.
-- Visualizations are created using matplotlib and seaborn.
+- This project utilises the pandas library for data processing.
+- Visualisations are created using matplotlib and seaborn.
