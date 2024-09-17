@@ -1,4 +1,4 @@
-# Death in India Data Analysis Project
+# Death in India Data Analysis Project ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 This project focuses on analyzing death statistics in India using Python. It involves data exploration and visualization to understand trends in population, birth rates, and death rates over time.
 
 ## Features
